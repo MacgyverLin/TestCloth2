@@ -1,0 +1,37 @@
+{
+    "name": "xiaz72",
+    "maskTexturePath": "xiaz72_mask",
+    "squeezeTexturePath": "xiaz72_squeeze",
+    "clothStyles": {
+        "styles": 0
+    },
+    "clothOffset": {
+        "offset": 0
+    },
+    "parts": [
+        {
+            "name": "1",
+            "clothTexturePath": "xiaz72_1",
+            "x": 798,
+            "y": 768,
+            "w": 459,
+            "h": 623,
+            "partCoverages": {
+                "coverages": 3968,
+                "frontFace": true
+            }
+        },
+        {
+            "name": "2",
+            "clothTexturePath": "xiaz72_2",
+            "x": 872,
+            "y": 901,
+            "w": 45,
+            "h": 155,
+            "partCoverages": {
+                "coverages": 3968,
+                "frontFace": false
+            }
+        }
+    ]
+}

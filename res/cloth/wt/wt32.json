@@ -1,0 +1,2 @@
+{"name":"wt32","maskTexturePath":"wt32_mask","squeezeTexturePath":"wt32_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"wt32_1","x":849,"y":442,"w":311,"h":498,"partCoverages":{"coverages":0,"frontFace":true}},{"name":"2","clothTexturePath":"wt32_2","x":1130,"y":592,"w":89,"h":352,"partCoverages":{"coverages":0,"frontFace":false}}]}
+

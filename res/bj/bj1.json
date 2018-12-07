@@ -1,0 +1,25 @@
+{
+    "name": "bj1",
+    "maskTexturePath": "bj1_mask",
+    "squeezeTexturePath": "bj1_squeeze",
+    "clothStyles": {
+        "styles": 0
+    },
+    "clothOffset": {
+        "offset": 0
+    },
+    "parts": [
+        {
+            "name": "1",
+            "clothTexturePath": "bj1_1",
+            "x": 256,
+            "y": 0,
+            "w": 1536,
+            "h": 2048,
+            "partCoverages": {
+                "coverages": 0,
+                "frontFace": true
+            }
+        }
+    ]
+}

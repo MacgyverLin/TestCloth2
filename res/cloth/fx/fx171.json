@@ -1,0 +1,2 @@
+{"name":"fx171","maskTexturePath":"fx171_mask","squeezeTexturePath":"fx171_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"fx171_1","x":930,"y":168,"w":234,"h":292,"partCoverages":{"coverages":8,"frontFace":true}},{"name":"2","clothTexturePath":"fx171_2","x":924,"y":345,"w":264,"h":220,"partCoverages":{"coverages":8,"frontFace":false}}]}
+

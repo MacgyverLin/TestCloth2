@@ -1,0 +1,1 @@
+{"name":"wz100","maskTexturePath":"wz100_mask","squeezeTexturePath":"wz100_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"wz100_1","x":871,"y":767,"w":330,"h":1048,"partCoverages":{"coverages":16,"frontFace":true}}]}

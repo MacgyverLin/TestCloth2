@@ -1,0 +1,2 @@
+{"name":"fx164","maskTexturePath":"fx164_mask","squeezeTexturePath":"fx164_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"fx164_1","x":909,"y":170,"w":268,"h":455,"partCoverages":{"coverages":8,"frontFace":true}},{"name":"2","clothTexturePath":"fx164_2","x":774,"y":315,"w":358,"h":510,"partCoverages":{"coverages":8,"frontFace":false}}]}
+

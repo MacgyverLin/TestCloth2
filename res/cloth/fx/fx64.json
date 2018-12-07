@@ -1,0 +1,2 @@
+{"name":"fx64","maskTexturePath":"fx64_mask","squeezeTexturePath":"fx64_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"fx64_1","x":905,"y":172,"w":256,"h":457,"partCoverages":{"coverages":8,"frontFace":true}},{"name":"2","clothTexturePath":"fx64_2","x":682,"y":342,"w":420,"h":660,"partCoverages":{"coverages":8,"frontFace":false}}]}
+

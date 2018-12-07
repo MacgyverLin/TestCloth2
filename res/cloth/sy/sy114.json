@@ -1,0 +1,2 @@
+{"name":"sy114","maskTexturePath":"sy114_mask","squeezeTexturePath":"sy114_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"sy114_1","x":846,"y":410,"w":339,"h":528,"partCoverages":{"coverages":1,"frontFace":true}},{"name":"2","clothTexturePath":"sy114_2","x":1149,"y":714,"w":74,"h":223,"partCoverages":{"coverages":1,"frontFace":false}}]}
+

@@ -1,0 +1,25 @@
+{
+    "name": "body",
+    "maskTexturePath": "body_mask",
+    "squeezeTexturePath": "body_squeeze",
+    "clothStyles": {
+        "styles": 0
+    },
+    "clothOffset": {
+        "offset": 0
+    },
+    "parts": [
+        {
+            "name": "1",
+            "clothTexturePath": "body_1",
+            "x": 838,
+            "y": 159,
+            "w": 390,
+            "h": 1640,
+            "partCoverages": {
+                "coverages": 0,
+                "frontFace": true
+            }
+        }
+    ]
+}

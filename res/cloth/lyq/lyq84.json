@@ -1,0 +1,2 @@
+{"name":"lyq84","maskTexturePath":"lyq84_mask","squeezeTexturePath":"lyq84_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"lyq84_1","x":822,"y":931,"w":100,"h":128,"partCoverages":{"coverages":3,"frontFace":true}},{"name":"2","clothTexturePath":"lyq84_2","x":770,"y":397,"w":539,"h":745,"partCoverages":{"coverages":3,"frontFace":false}}]}
+

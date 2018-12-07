@@ -1,0 +1,25 @@
+{
+    "name": "sz3",
+    "maskTexturePath": "sz3_mask",
+    "squeezeTexturePath": "sz3_squeeze",
+    "clothStyles": {
+        "styles": 0
+    },
+    "clothOffset": {
+        "offset": 0
+    },
+    "parts": [
+        {
+            "name": "1",
+            "clothTexturePath": "sz3_1",
+            "x": 869,
+            "y": 1013,
+            "w": 332,
+            "h": 783,
+            "partCoverages": {
+                "coverages": 16,
+                "frontFace": true
+            }
+        }
+    ]
+}

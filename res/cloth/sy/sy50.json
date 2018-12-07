@@ -1,0 +1,2 @@
+{"name":"sy50","maskTexturePath":"sy50_mask","squeezeTexturePath":"sy50_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"sy50_1","x":856,"y":415,"w":305,"h":515,"partCoverages":{"coverages":1,"frontFace":true}},{"name":"2","clothTexturePath":"sy50_2","x":1137,"y":596,"w":79,"h":340,"partCoverages":{"coverages":1,"frontFace":false}}]}
+

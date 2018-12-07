@@ -1,0 +1,2 @@
+{"name":"xiaz66","maskTexturePath":"xiaz66_mask","squeezeTexturePath":"xiaz66_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"xiaz66_1","x":907,"y":765,"w":351,"h":315,"partCoverages":{"coverages":3968,"frontFace":true}},{"name":"2","clothTexturePath":"xiaz66_2","x":832,"y":811,"w":90,"h":243,"partCoverages":{"coverages":3968,"frontFace":false}}]}
+

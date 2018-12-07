@@ -1,0 +1,25 @@
+{
+    "name": "lyq3",
+    "maskTexturePath": "lyq3_mask",
+    "squeezeTexturePath": "lyq3_squeeze",
+    "clothStyles": {
+        "styles": 0
+    },
+    "clothOffset": {
+        "offset": 0
+    },
+    "parts": [
+        {
+            "name": "1",
+            "clothTexturePath": "lyq3_1",
+            "x": 914,
+            "y": 395,
+            "w": 262,
+            "h": 669,
+            "partCoverages": {
+                "coverages": 3,
+                "frontFace": true
+            }
+        }
+    ]
+}

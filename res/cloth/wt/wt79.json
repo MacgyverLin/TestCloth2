@@ -1,0 +1,2 @@
+{"name":"wt79","maskTexturePath":"wt79_mask","squeezeTexturePath":"wt79_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"wt79_1","x":755,"y":427,"w":463,"h":931,"partCoverages":{"coverages":0,"frontFace":true}},{"name":"2","clothTexturePath":"wt79_2","x":894,"y":422,"w":283,"h":940,"partCoverages":{"coverages":0,"frontFace":false}}]}
+

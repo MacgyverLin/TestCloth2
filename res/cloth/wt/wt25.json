@@ -1,0 +1,2 @@
+{"name":"wt25","maskTexturePath":"wt25_mask","squeezeTexturePath":"wt25_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"wt25_1","x":541,"y":433,"w":774,"h":1079,"partCoverages":{"coverages":0,"frontFace":true}},{"name":"2","clothTexturePath":"wt25_2","x":1114,"y":1007,"w":276,"h":471,"partCoverages":{"coverages":0,"frontFace":false}}]}
+

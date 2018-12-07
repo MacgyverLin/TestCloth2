@@ -1,0 +1,2 @@
+{"name":"wt87","maskTexturePath":"wt87_mask","squeezeTexturePath":"wt87_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"wt87_1","x":744,"y":473,"w":538,"h":559,"partCoverages":{"coverages":0,"frontFace":true}},{"name":"2","clothTexturePath":"wt87_2","x":749,"y":412,"w":534,"h":714,"partCoverages":{"coverages":0,"frontFace":false}}]}
+

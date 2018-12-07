@@ -1,0 +1,37 @@
+{
+    "name": "fx3",
+    "maskTexturePath": "fx3_mask",
+    "squeezeTexturePath": "fx3_squeeze",
+    "clothStyles": {
+        "styles": 0
+    },
+    "clothOffset": {
+        "offset": 0
+    },
+    "parts": [
+        {
+            "name": "1",
+            "clothTexturePath": "fx3_1",
+            "x": 776,
+            "y": 159,
+            "w": 451,
+            "h": 755,
+            "partCoverages": {
+                "coverages": 8,
+                "frontFace": true
+            }
+        },
+        {
+            "name": "2",
+            "clothTexturePath": "fx3_2",
+            "x": 984,
+            "y": 390,
+            "w": 279,
+            "h": 521,
+            "partCoverages": {
+                "coverages": 8,
+                "frontFace": false
+            }
+        }
+    ]
+}

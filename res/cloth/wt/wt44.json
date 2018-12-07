@@ -1,0 +1,2 @@
+{"name":"wt44","maskTexturePath":"wt44_mask","squeezeTexturePath":"wt44_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"wt44_1","x":803,"y":436,"w":434,"h":638,"partCoverages":{"coverages":0,"frontFace":true}},{"name":"2","clothTexturePath":"wt44_2","x":1108,"y":875,"w":103,"h":233,"partCoverages":{"coverages":0,"frontFace":false}}]}
+

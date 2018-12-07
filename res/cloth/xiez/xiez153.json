@@ -1,0 +1,2 @@
+{"name":"xiez153","maskTexturePath":"xiez153_mask","squeezeTexturePath":"xiez153_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"xiez153_1","x":890,"y":1600,"w":305,"h":185,"partCoverages":{"coverages":6656,"frontFace":true}},{"name":"2","clothTexturePath":"xiez153_2","x":846,"y":1549,"w":355,"h":257,"partCoverages":{"coverages":6656,"frontFace":false}}]}
+

@@ -1,0 +1,25 @@
+{
+    "name": "wz4",
+    "maskTexturePath": "wz4_mask",
+    "squeezeTexturePath": "wz4_squeeze",
+    "clothStyles": {
+        "styles": 0
+    },
+    "clothOffset": {
+        "offset": 0
+    },
+    "parts": [
+        {
+            "name": "1",
+            "clothTexturePath": "wz4_1",
+            "x": 868,
+            "y": 1013,
+            "w": 333,
+            "h": 783,
+            "partCoverages": {
+                "coverages": 16,
+                "frontFace": true
+            }
+        }
+    ]
+}

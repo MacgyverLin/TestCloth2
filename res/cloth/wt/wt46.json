@@ -1,0 +1,2 @@
+{"name":"wt46","maskTexturePath":"wt46_mask","squeezeTexturePath":"wt46_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"wt46_1","x":812,"y":417,"w":387,"h":216,"partCoverages":{"coverages":0,"frontFace":true}},{"name":"2","clothTexturePath":"wt46_2","x":812,"y":562,"w":387,"h":104,"partCoverages":{"coverages":0,"frontFace":false}}]}
+

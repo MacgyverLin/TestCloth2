@@ -1,0 +1,2 @@
+{"name":"wt36","maskTexturePath":"wt36_mask","squeezeTexturePath":"wt36_squeeze","clothStyles":{"styles":0},"clothOffset":{"offset":0},"parts":[{"name":"1","clothTexturePath":"wt36_1","x":849,"y":439,"w":316,"h":498,"partCoverages":{"coverages":0,"frontFace":true}},{"name":"2","clothTexturePath":"wt36_2","x":871,"y":557,"w":347,"h":384,"partCoverages":{"coverages":0,"frontFace":false}}]}
+

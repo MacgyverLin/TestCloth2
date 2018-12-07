@@ -1,0 +1,37 @@
+{
+    "name": "lyq63",
+    "maskTexturePath": "lyq63_mask",
+    "squeezeTexturePath": "lyq63_squeeze",
+    "clothStyles": {
+        "styles": 0
+    },
+    "clothOffset": {
+        "offset": 0
+    },
+    "parts": [
+        {
+            "name": "1",
+            "clothTexturePath": "lyq63_1",
+            "x": 897,
+            "y": 526,
+            "w": 414,
+            "h": 538,
+            "partCoverages": {
+                "coverages": 3,
+                "frontFace": true
+            }
+        },
+        {
+            "name": "2",
+            "clothTexturePath": "lyq63_2",
+            "x": 759,
+            "y": 728,
+            "w": 173,
+            "h": 326,
+            "partCoverages": {
+                "coverages": 3,
+                "frontFace": false
+            }
+        }
+    ]
+}
